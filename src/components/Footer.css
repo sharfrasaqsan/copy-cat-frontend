@@ -1,0 +1,12 @@
+/* Footer.css */
+
+.footer {
+  background-color: #333; /* Match the background color of your navigation bar */
+  color: white; /* Match the text color of your navigation bar */
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer p {
+  margin: 0;
+}

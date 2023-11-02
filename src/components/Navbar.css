@@ -1,0 +1,28 @@
+.navbar {
+  background-color: #333;
+  color: white;
+}
+
+.navbar a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  color: #fdb813;
+}
+
+.navbar .dropdown-toggle {
+  color: white;
+}
+
+.navbar .dropdown-menu a {
+  color: #333;
+  margin: 0;
+}
+
+.navbar .dropdown-menu a:hover {
+  background-color: #fdb813;
+}
